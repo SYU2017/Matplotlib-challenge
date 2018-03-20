@@ -1,6 +1,6 @@
 # Matplotlib-challenge
 
-# Unit 5 | Assignment - Pymaceuticals Inc
+# Assignment - Pymaceuticals Inc
 # Conclusions: 
  We observed three trends from “Pymaceuticals Inc” mice tumor treatment data:
  
